@@ -1,14 +1,14 @@
 # PillBug
 
-## SmartThings Pill Reminder
+### SmartThings Pill Reminder
 
 SmartThings has a great app for medication reminders, but you have to use a medicine cabinet for it to be accurate (it knows you've taken it if you've opened the cabinet). So I decided to build a little device to hold a pill bottle, and blink brightly when they aren't taken on time. 
 
+* [Arduino Sketch](pillbug/pillbug.ino). 
+* [Device Type](pillbug/pillbug-device-type.groovy)
+* Needs a SmartApp to drive it
+
 ![image](images/icon.png)
-
-## Arduino Sketch
-
-The sketch is located in [pillbug](pillbug/pillbug.ino). 
 
 ## Disclaimer
 

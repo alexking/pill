@@ -1,5 +1,9 @@
 # PillBug
 
+![image](images/pillbug-v1-red.jpg)
+
+_Pillbug while it is bugging you with its annoying-ish red light._
+
 ### SmartThings Pill Reminder
 
 SmartThings has a great app for medication reminders, but you have to use a medicine cabinet for it to be accurate (it knows you've taken it if you've opened the cabinet). So I decided to build a little device to hold a pill bottle, and blink brightly when they aren't taken on time. 
